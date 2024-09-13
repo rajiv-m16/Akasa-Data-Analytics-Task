@@ -1,2 +1,3 @@
 # Akasa-Data-Analytics-Task
-This is task performed for akasa airline interview task.
+This task performed for akasa airline interview task.
+Raw file is uploaded here is used for data cleaning, analysis and visualization.
